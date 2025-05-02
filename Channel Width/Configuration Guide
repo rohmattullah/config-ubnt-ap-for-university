@@ -11,7 +11,7 @@ Examples:
 - This is especially useful in environments with many access points (universities, apartments, malls).
 - Although speed decreases due to smaller channel width, stability and signal quality improve, making it suitable for devices that require a stable connection (IoT devices, light browsing).
 
-⚖️ Kapan Sebaiknya Mengurangi Channel Width?
+⚖️ When to Reduce Channel Width?
 
 -Situation-	                                                                    -Recommended Channel Width-
 High interference (neighboring APs)	                                                  20 MHz or 40 MHz
