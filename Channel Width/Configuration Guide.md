@@ -13,11 +13,10 @@ Examples:
 
 ⚖️ When to Reduce Channel Width?
 
--Situation-	                                                                    -Recommended Channel Width-
-High interference (neighboring APs)	                                                  20 MHz or 40 MHz
-Dense device environment	                                                                20 MHz
-Need high throughput (file sharing, 4K video, etc.)	                                      80 MHz
-Outdoor use or long range	                                           20 MHz (more stable and resistant to interference)
+High interference (neighboring APs) -> 20 MHz or 40 MHz
+Dense device environment -> 20 MHz
+Need high throughput (file sharing, 4K video, etc.)	-> 80 MHz
+Outdoor use or long range	-> 20 MHz (more stable and resistant to interference)
 
 📌 Tips on UniFi Controller:
 - Don't auto for channel width. Select manual 20/40/80 MHz depending on need.
