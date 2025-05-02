@@ -18,3 +18,8 @@ High interference (neighboring APs)	                                            
 Dense device environment	                                                                20 MHz
 Need high throughput (file sharing, 4K video, etc.)	                                      80 MHz
 Outdoor use or long range	                                           20 MHz (more stable and resistant to interference)
+
+📌 Tips on UniFi Controller:
+- Don't auto for channel width. Select manual 20/40/80 MHz depending on need.
+- Use 20 MHz in the 2.4 GHz band (always recommended because it is crowded).
+- Use 40 or 80 MHz at 5 GHz if interference is low and requires high throughput.
